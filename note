@@ -1,0 +1,12 @@
+- unit testing
+    -O que é?
+    testa unidades de codigo
+
+- como fazer com o jest 
+        - pode se rodar o jest com 'npm p' , npm test ou npm run test
+
+-quando / como usar
+- como isolar ainda o test com mock
+
+
+ 

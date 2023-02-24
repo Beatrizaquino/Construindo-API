@@ -1,4 +1,11 @@
+//testando valor
 
-const somaCalculadora = (a,b) => { return a + b};
+const sum = (a,b) => { return a  + b};
 
-export {somaCalculadora};
+const inOneHour = () => {
+    const now = Date.now() 
+    const inOneHourInMilli = 1 * 60 * 60 * 1000
+    return now + inOneHourInMilli
+}
+
+module.exports = {sum, inOneHour}
